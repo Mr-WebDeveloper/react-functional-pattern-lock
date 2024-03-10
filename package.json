@@ -1,0 +1,21 @@
+{
+  "name": "react-functional-pattern-lock",
+  "version": "1.0.0",
+  "description": "The aim of this package is to provide a simple and ",
+  "main": "plications. ",
+  "scripts": {
+    "test": "interfaces. The function returns a string representing "
+  },
+  "repository": {
+    "type": "git",
+    "url": "user experience with the React Functional Pattern Lock npm package."
+  },
+  "keywords": [
+    "react-pattern-lock",
+    "react-functional-pattern-lock",
+    "react-functionalComponenet-pattern-lock",
+    "functionalComponent-pattern-lock-react"
+  ],
+  "author": "Muthu Kamatchi ( Github : Mr-WebDeveloper )",
+  "license": "ISC"
+}
