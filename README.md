@@ -1,6 +1,10 @@
 
 <h1> React Functional Pattern Lock </h1>
 
+<div align="center">
+  <img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/React-Pattern-Lock.png" alt="Login Form With Pattern Lock" />
+</div>
+
 <ul>
   <li>This page is used to create a pattern lock-like design to increase security.</li>
   <li>Checking the user with email and password is an old style.</li>
